@@ -1,0 +1,16 @@
+backpack-for-pytorch
+gdown
+imageio
+matplotlib
+numpy
+pandas
+parameterized
+Pillow
+seaborn
+timm
+torch
+torchvision
+tqdm
+wilds
+datasets
+Pillow
