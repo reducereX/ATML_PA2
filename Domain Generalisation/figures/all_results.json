@@ -1,0 +1,68 @@
+{
+  "ERM": {
+    "target_acc": 83.82,
+    "art_acc": 94.87,
+    "cartoon_acc": 97.22,
+    "photo_acc": 97.9,
+    "avg_source": 96.67,
+    "worst_source": 94.87,
+    "gen_gap": 12.85,
+    "training_time": "8min 42s",
+    "stable": true
+  },
+  "IRM (\u03bb=10)": {
+    "target_acc": 78.85,
+    "art_acc": 96.09,
+    "cartoon_acc": 97.01,
+    "photo_acc": 97.31,
+    "avg_source": 96.8,
+    "worst_source": 96.09,
+    "gen_gap": 17.95,
+    "training_time": "9min 7s",
+    "stable": true
+  },
+  "IRM (\u03bb=25)": {
+    "target_acc": 19.62,
+    "art_acc": 55.75,
+    "cartoon_acc": 49.57,
+    "photo_acc": 67.66,
+    "avg_source": 57.66,
+    "worst_source": 49.57,
+    "gen_gap": 38.04,
+    "training_time": "9min 6s",
+    "stable": false
+  },
+  "IRM (\u03bb=100)": {
+    "target_acc": 34.27,
+    "art_acc": 58.19,
+    "cartoon_acc": 55.56,
+    "photo_acc": 70.06,
+    "avg_source": 61.27,
+    "worst_source": 55.56,
+    "gen_gap": 27.0,
+    "training_time": "9min 3s",
+    "stable": false
+  },
+  "GroupDRO": {
+    "target_acc": 85.1,
+    "art_acc": 91.2,
+    "cartoon_acc": 94.02,
+    "photo_acc": 97.31,
+    "avg_source": 94.18,
+    "worst_source": 91.2,
+    "gen_gap": 9.08,
+    "training_time": "7min 59s",
+    "stable": true
+  },
+  "SAM (\u03c1=0.05)": {
+    "target_acc": 96.68,
+    "art_acc": 94.63,
+    "cartoon_acc": 97.87,
+    "photo_acc": 98.8,
+    "avg_source": 97.1,
+    "worst_source": 94.63,
+    "gen_gap": 0.42,
+    "training_time": "13min 29s",
+    "stable": true
+  }
+}

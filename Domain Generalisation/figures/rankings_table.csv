@@ -1,0 +1,7 @@
+Rank,By Target Acc,Target Acc,By Gen Gap,Gen Gap,By Worst Source,Worst Source
+1,SAM (ρ=0.05),96.68,SAM (ρ=0.05),0.42,IRM (λ=10),96.09
+2,GroupDRO,85.1,GroupDRO,9.08,ERM,94.87
+3,ERM,83.82,ERM,12.85,SAM (ρ=0.05),94.63
+4,IRM (λ=10),78.85,IRM (λ=10),17.95,GroupDRO,91.2
+5,IRM (λ=100),34.27,IRM (λ=100),27.0,IRM (λ=100),55.56
+6,IRM (λ=25),19.62,IRM (λ=25),38.04,IRM (λ=25),49.57
