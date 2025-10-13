@@ -55,14 +55,14 @@
     "stable": true
   },
   "SAM (\u03c1=0.05)": {
-    "target_acc": 96.68,
-    "art_acc": 94.63,
-    "cartoon_acc": 97.87,
-    "photo_acc": 98.8,
-    "avg_source": 97.1,
-    "worst_source": 94.63,
-    "gen_gap": 0.42,
-    "training_time": "13min 29s",
+    "target_acc": 80.66,
+    "art_acc": 99.27,
+    "cartoon_acc": 99.7,
+    "photo_acc": 99.76,
+    "avg_source": 99.58,
+    "worst_source": 99.27,
+    "gen_gap": 18.92,
+    "training_time": "13min 27s",
     "stable": true
   }
 }
